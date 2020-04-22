@@ -37,6 +37,7 @@ sharpening
 
 The results obtained using these augmentation techniques on COVID-19
 X-ray image dataset are given in Table 1:
+![](images/image2.jpeg)
 
   **Sr. No.**   **Augmentation Technique**                                                                                                     **Train Set**   **No. of Augmented Covid-19 images in train Set**   **Validation Set**   **Validation loss**   **Validation Accuracy**
   ------------- ------------------------------------------------------------------------------------------------------------------------------ --------------- --------------------------------------------------- -------------------- --------------------- -------------------------
