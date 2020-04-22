@@ -30,8 +30,7 @@ various gamma values are used in the range 0.4-0.6 and number of images
 are generated. The sample images generated after augmentation are shown
 in Figure 1.
 
-![](images/image1.jpeg){width="6.451388888888889in"
-height="1.9004800962379702in"}
+![](images/image1.jpeg)
 
 Figure 1: (a) Original image, (b) Average, (c) Power law and (d) Image
 sharpening
