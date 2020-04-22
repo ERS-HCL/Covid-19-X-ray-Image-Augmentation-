@@ -39,14 +39,7 @@ The results obtained using these augmentation techniques on COVID-19
 X-ray image dataset are given in Table 1:
 ![](images/image2.jpeg)
 
-  **Sr. No.**   **Augmentation Technique**                                                                                                     **Train Set**   **No. of Augmented Covid-19 images in train Set**   **Validation Set**   **Validation loss**   **Validation Accuracy**
-  ------------- ------------------------------------------------------------------------------------------------------------------------------ --------------- --------------------------------------------------- -------------------- --------------------- -------------------------
-  1             Original Set of Covid-19 X-ray \[1\]                                                                                           98              0                                                   50                   0.34                  92
-  2             Average mask                                                                                                                   480             204                                                 50                   0.2                   96
-  3             Image sharpening                                                                                                               480             204                                                 50                   0.23                  92
-  4             Power law (5 gamma values)                                                                                                     576             255                                                 50                   0.1854                94
-  5             Average mask (2 kernels), sharpening (2 types) and Power law (5 gamma values) -Augmentations with selected images from above   1032            459                                                 50                   0.21                  94
-
+  
 References:
 
 1\. Covid-19 Chest X-ray Dataset:
